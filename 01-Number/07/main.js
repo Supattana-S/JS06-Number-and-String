@@ -1,5 +1,5 @@
 const rollDice = () => {
-  return Math.trunc(Math.random() * 6 + 1);
+  return Math.floor(Math.random() * 6 + 1);
 };
 
 console.log(rollDice());

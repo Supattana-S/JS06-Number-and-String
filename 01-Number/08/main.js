@@ -1,1 +1,1 @@
-const circumstance = (r) => 2 * Math.PI * r;
+const circumference = (r) => 2 * Math.PI * r;
